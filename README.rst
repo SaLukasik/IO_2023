@@ -12,7 +12,8 @@ IO_2023
 .. image:: https://readthedocs.org/projects/io-2023/badge/?version=latest
         :target: https://io-2023.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
-
+        
+.. image:: https://github.com/SaLukasik/IO_2023/actions/workflows/python-package.yml/badge.svg
 
 
 
